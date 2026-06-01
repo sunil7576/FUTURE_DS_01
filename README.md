@@ -1,66 +1,54 @@
-# Task 1 - Sales Performance Dashboard
+# Task 2 - Customer Retention & Churn Analysis
 
 ## Objective
-The objective of this project is to analyze Superstore sales data and create an interactive Power BI dashboard to monitor sales performance, profitability, customer segments, and regional trends.
+Analyze customer churn behavior and identify retention opportunities using the Telco Customer Churn dataset.
+
+## Tool Used
+- Power BI Desktop
 
 ## Dataset
-- Dataset: Sample Superstore
-- Tool Used: Power BI Desktop
+- Telco Customer Churn Dataset
 
-## Key Performance Indicators (KPIs)
-- Total Revenue
-- Total Profit
-- Profit Margin
-- Total Orders
+## KPIs
+- Total Customers
+- Churn Customers
+- Churn Rate %
+- Average Monthly Charges
 
-## Dashboard Features
+## Dashboard Components
 
-### 1. Revenue by Category
-Shows sales performance across:
-- Technology
-- Furniture
-- Office Supplies
+### Churn by Contract Type
+Identifies which contract types experience the highest churn.
 
-### 2. Revenue Trend Over Time
-Displays monthly revenue trends and business growth patterns.
+### Churn by Internet Service
+Analyzes churn across internet service categories.
 
-### 3. Top 10 Selling Products
-Identifies the best-performing products based on revenue.
+### Churn by Gender
+Compares churn behavior between male and female customers.
 
-### 4. Regional Sales Performance
-Compares sales across different regions:
-- East
-- West
-- Central
-- South
+### Churn by Payment Method
+Shows the relationship between payment methods and churn.
 
-### 5. Sales by Segment
-Analyzes customer segments:
-- Consumer
-- Corporate
-- Home Office
+### Churn by Senior Citizen
+Analyzes churn patterns among senior citizens.
 
-### 6. Revenue by State
-Interactive map showing sales distribution across states.
+### Tenure vs Churn
+Evaluates customer lifetime and churn trends.
 
-### 7. Profit by Sub-Category
-Highlights the most profitable and least profitable sub-categories.
+### Interactive Filters
+- Gender
+- Contract
+- Internet Service
 
-### 8. Interactive Filters
-Users can filter data by:
-- Region
-- Category
-- Segment
-
-## Insights
-- Technology generated the highest revenue.
-- Consumer segment contributed the largest share of sales.
-- Certain sub-categories generated significantly higher profit than others.
-- Regional performance varies across the United States.
+## Key Insights
+- Month-to-month customers have the highest churn.
+- Fiber optic users show higher churn rates.
+- Customer tenure strongly impacts retention.
+- Long-term contracts improve customer retention.
 
 ## Files Included
-- Task1_Sales_Dashboard.pbix
-- Task1_Dashboard.png
+- Task2_Churn_Dashboard.pbix
+- Task2_Dashboard.png
 - README.md
 
 ## Author
