@@ -52,5 +52,5 @@ Evaluates customer lifetime and churn trends.
 - README.md
 
 ## Author
-Anshu Rawat
+Sunil Sharma
 Future Interns - Data Science & Analytics Internship
