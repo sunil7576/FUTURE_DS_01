@@ -1,56 +1,113 @@
-# Task 2 - Customer Retention & Churn Analysis
+# Data Science & Analytics Internship Projects
 
-## Objective
-Analyze customer churn behavior and identify retention opportunities using the Telco Customer Churn dataset.
+This repository contains all tasks completed during the Data Science & Analytics Internship.
 
-## Tool Used
-- Power BI Desktop
+## Tools Used
+- Power BI
+- Excel
+- CSV Datasets
+- Data Analysis
+- Data Visualization
 
-## Dataset
-- Telco Customer Churn Dataset
+## Repository Structure
 
-## KPIs
+```text
+FUTURE_DS_01
+│
+├── Task-1
+│   ├── README.md
+│   ├── Sample - Superstore.csv
+│   ├── Task1_Sales_Dashboard.pbix
+│   └── Task1_Dashboard.png
+│
+├── Task-2
+│   ├── README.md
+│   ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│   ├── Task2_Churn_Dashboard.pbix
+│   └── Task2_Dashboard.png
+│
+├── Task-3
+│   ├── README.md
+│   ├── bank-full.csv
+│   ├── Task3_Marketing_Funnel_Dashboard.pbix
+│   └── Task3_Dashboard.png
+```
+
+---
+
+## Task 1 – Sales Performance Dashboard
+
+### Objective
+Analyze retail sales data and create an interactive dashboard to identify sales trends and business performance.
+
+### Key Metrics
+- Total Sales
+- Profit Analysis
+- Category Performance
+- Regional Performance
+
+### Deliverables
+- Power BI Dashboard
+- Dataset
+- Dashboard Screenshot
+
+---
+
+## Task 2 – Customer Retention & Churn Analysis
+
+### Objective
+Analyze customer churn behavior and identify factors affecting customer retention.
+
+### Key Metrics
 - Total Customers
 - Churn Customers
-- Churn Rate %
+- Churn Rate
 - Average Monthly Charges
 
-## Dashboard Components
+### Deliverables
+- Power BI Dashboard
+- Dataset
+- Dashboard Screenshot
 
-### Churn by Contract Type
-Identifies which contract types experience the highest churn.
+---
 
-### Churn by Internet Service
-Analyzes churn across internet service categories.
+## Task 3 – Marketing Funnel & Conversion Analysis
 
-### Churn by Gender
-Compares churn behavior between male and female customers.
+### Objective
+Analyze marketing campaign performance and conversion trends.
 
-### Churn by Payment Method
-Shows the relationship between payment methods and churn.
+### Key Metrics
+- Average Age
+- Conversion Rate
+- Average Balance
+- Conversion by Education
+- Conversion by Contact Type
+- Conversion by Job
+- Conversion by Month
 
-### Churn by Senior Citizen
-Analyzes churn patterns among senior citizens.
+### Deliverables
+- Power BI Dashboard
+- Dataset
+- Dashboard Screenshot
 
-### Tenure vs Churn
-Evaluates customer lifetime and churn trends.
+---
 
-### Interactive Filters
-- Gender
-- Contract
-- Internet Service
+## Skills Demonstrated
 
-## Key Insights
-- Month-to-month customers have the highest churn.
-- Fiber optic users show higher churn rates.
-- Customer tenure strongly impacts retention.
-- Long-term contracts improve customer retention.
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Analytics
+- Customer Analytics
+- Marketing Analytics
+- Power BI Reporting
 
-## Files Included
-- Task2_Churn_Dashboard.pbix
-- Task2_Dashboard.png
-- README.md
+---
 
 ## Author
-Sunil Sharma
-Future Interns - Data Science & Analytics Internship
+
+**Sunil Sharma**
+
+Data Science & Analytics Intern
+
+GitHub: https://github.com/sunil7576
